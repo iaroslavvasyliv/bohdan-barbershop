@@ -1,0 +1,49 @@
+body{
+	background-color: black;
+}
+#container {
+	height: 450px;
+	width: 650px;
+	margin: 20px auto;
+	background-color: green;
+	position: relative;
+}
+#img {
+	height: 450px;
+	width: 650px;
+	position: absolute; 
+	box-shadow: 0px 0px 10px #fff;
+}
+#left_holder{
+	height: 450px;
+	width: 100px;
+	position: absolute;
+	left: 0px;
+	right: 0px;
+}
+#right_holder{
+	height: 450px;
+	width: 100px;
+	position: absolute;
+	right: 0px;
+	top: 0px;
+}
+.left{
+	height: 70px;
+	width: 70px;
+	position: absolute;
+	top:40%;
+	left:0px;
+	box-shadow: 0px 0px 5px #fff;
+}
+.right{
+	height: 70px;
+	width: 70px; 
+	position: absolute;
+	top:40%;
+	right:0px;
+	box-shadow: 0px 0px 5px #fff;
+}
+.left:hover, .right:hover{
+	box-shadow: 0px 0px 25px #fff;
+}
