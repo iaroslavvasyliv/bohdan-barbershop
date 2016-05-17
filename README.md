@@ -1,1 +1,1 @@
-iaroslavvasyliv.github.io/bohdan-barbershop
+https://iaroslavvasyliv.github.io/bohdan-barbershop
