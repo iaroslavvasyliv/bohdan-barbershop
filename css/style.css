@@ -118,12 +118,12 @@ font-weight: bold;
 	position: relative;
 }
 #img {
-	height: 469px;
+	height: 550px;
 	width: 100%;
 	/*position: absolute; */
 	box-shadow: 0px 0px 10px #fff;
 }
-#left_holder{
+/*#left_holder{
 	height: 450px;
 	width: 100px;
 	position: absolute;
@@ -136,7 +136,7 @@ font-weight: bold;
 	position: absolute;
 	right: 0px;
 	top: 0px;
-}
+}*/
 .left{
 	height: 70px;
 	width: 70px;
@@ -155,4 +155,8 @@ font-weight: bold;
 }
 .left:hover, .right:hover{
 	box-shadow: 0px 0px 25px #fff;
+}
+/*-----------ABOUT ME---------------------*/
+#AboutMe{
+
 }
